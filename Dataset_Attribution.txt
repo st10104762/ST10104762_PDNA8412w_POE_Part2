@@ -1,0 +1,6 @@
+Dataset: goodbooks-10k, books.csv
+Source: https://github.com/zygmuntz/goodbooks-10k
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), as stated in the source repository.
+Use: 10,000-book metadata file used for the Part 2 POE analysis.
+Attribution: Zygmunt (n.d.), goodbooks-10k. The analysis defines a Goodreads reader-popularity proxy from ratings_count; it does not use verified commercial bestseller or sales labels.
+Accessed: 6 October 2026.
